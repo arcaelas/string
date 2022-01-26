@@ -1,5 +1,5 @@
 {
-  "version": "1.7.0",
+  "version": "1.8.0",
   "main": "src/index.js",
   "name": "@arcaelas/string",
   "description": "Manipulating text strings is now easier.",
