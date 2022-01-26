@@ -2,7 +2,7 @@
   "version": "1.4.0",
   "main": "src/index.js",
   "name": "@arcaelas/string",
-  "description": "Tools and helpers for managing String's in @arcaelas",
+  "description": "Manipulating text strings is now easier.",
   "scripts": {
     "start": "tsc --watch",
     "prepublishOnly": "tsc && npm version minor",
@@ -10,8 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arcaelas/arcaelas.git",
-    "directory": "string"
+    "url": "git+ssh://github.com/Arcaelas-Insiders-ES/string.git"
   },
   "keywords": [
     "strings",
